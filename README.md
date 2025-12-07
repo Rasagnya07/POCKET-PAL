@@ -58,9 +58,9 @@ pocketpal:
 
 ## Creators:
 
-Rasagnya.M
-Parinita.T
-Hasini.K
+Rasagnya.M\n
+Parinita.T\n
+Hasini.K\n
 -Engineering Students
 
 
