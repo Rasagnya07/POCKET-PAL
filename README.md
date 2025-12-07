@@ -58,10 +58,10 @@ pocketpal:
 
 ## Creators:
 
-Rasagnya.M\n
-Parinita.T\n
-Hasini.K\n
--Engineering Students
+Rasagnya.M,
+ Parinita.T,
+ Hasini.K
+--Engineering Students
 
 
 This project is developed for educational purposes and can be extended with GUI, database integration, or web support in future versions.
